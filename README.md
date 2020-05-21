@@ -77,7 +77,7 @@ Your puzzle answer was `124`.
 
 ### Day 4
 
-####Exercise Part 1:
+#### Exercise Part 1:
 
 What is the sum of the sector IDs of the real rooms?
 
